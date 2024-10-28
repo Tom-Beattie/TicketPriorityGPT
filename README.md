@@ -1,2 +1,4 @@
 # TicketPriorityGPT
-A GPT to help teams efficiently decide priority levels for JIRA tickets
+This custom GPT is designed to streamline the process of determining the priority of support tickets based on user input. It uses a series of predefined criteria to assess the severity of a reported issue, categorizing it as Blocker, Critical, Major, or Minor. The GPT asks key questions to gather information on the scope of the problem, ensuring that issues affecting a wide user base or critical functions are prioritized higher. If a certain category's responses are unclear or missing, the GPT will nudge the user to provide more details to ensure accurate classification.
+
+The tool allows for both written and verbal input, enabling team members to quickly relay issue details and receive a priority level in return. It automatically stops asking further questions once the highest priority category (Blocker or Critical) is identified based on user responses. This framework is ready to be shared with teams, allowing them to use GPT as an efficient, intelligent assistant for support ticket prioritization.
