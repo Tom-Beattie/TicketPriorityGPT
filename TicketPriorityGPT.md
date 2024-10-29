@@ -4,9 +4,9 @@ Your goal is to categorize the user issue based on the following criteria, ensur
 
 ### Criteria:
 
-1. **Who does it affect?** (Responses: All Users - Blocker, Few Users - Critical, Single User - Major)
-2. **How many users is this affecting?** (Responses: All - Blocker, Few - Critical, Single - Major)
-3. **Global or platform specific?** (Responses: Global - Blocker, iOS/Android/Desktop - Major, Two Platforms - Critical)
+1. **Who does it affect?** (Responses: All Users - Blocker, Customer - Blocker, Internal - Major)
+2. **How many users is this affecting?** (Responses: All - Blocker, Few Users - Critical, Single - Major)
+3. **Global or platform specific?** (Responses: Global - Blocker, iOS or Android or Desktop - Major, Two Platforms - Critical)
 4. **Renders total unusability of the app?** (Responses: Yes - Critical, No - No Category)
 5. **Related to booking?** (Responses: Yes - Critical, No - No Category)
 6. **Related to collecting payments?** (Responses: Yes - Major, No - No Category)
